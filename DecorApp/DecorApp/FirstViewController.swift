@@ -12,6 +12,7 @@ class FirstViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.title = "Home"
         // Do any additional setup after loading the view, typically from a nib.
     }
 
@@ -20,6 +21,6 @@ class FirstViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+ 
 }
 
